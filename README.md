@@ -59,6 +59,7 @@
 
 <a href = "https://www.linkedin.com/in/vansh-gupta4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/vanshgupta_4/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/></a>
 
 </p>
 
