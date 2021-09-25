@@ -63,7 +63,6 @@
 </p>
 
 ## ❤ Views
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
    ![](https://komarev.com/ghpvc/?username=Vansh-Gupta4)
 
-</a>
+
