@@ -28,8 +28,14 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href=https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
-
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+    <a href="https://www.eclipse.org/" target="_blank"><img src="https://img.icons8.com/officel/16/000000/java-eclipse.png"/> </a>
+    <a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+    <a href="https://figma.com" target="_blank">  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
+   
+  
 </p>
 
 <br/>
