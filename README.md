@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[NADOS](https://nados.pepcoding.com/)**
+- 🔭 Former Intern at Pepcoding Private Limited
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
