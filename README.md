@@ -1,14 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vansh Gupta</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif" width="30px">, I'm Vansh Gupta</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
+- 🔭 Currently working as a Backend Intern at Live Your Best Life
+
 - 🔭 Former Intern at Pepcoding Private Limited
 
-- 📫 Link to my portfolio **https://vanshcodes.tech**
+- 📫 Link to my portfolio **https://vansh-gupta4.github.io/MyPortfolio/**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -61,10 +63,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Vansh-Gupta4/github-readme-activity-graph"><img alt="Vansh Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vansh-Gupta4&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
