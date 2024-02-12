@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working as a Backend Intern at Live Your Best Life
+- 🔭 Currently working as a Backend Developer at Live Your Best Life
 
 - 🔭 Former Intern at Pepcoding Private Limited
 
