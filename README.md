@@ -6,17 +6,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working as a Backend Developer at Live Your Best Life
-
-- 🔭 Former Intern at Pepcoding Private Limited
+- 🔭 Currently working as a Backend Developer at Wheelseye Technology
 
 - 📫 Link to my portfolio **https://vansh-gupta4.github.io/MyPortfolio/**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **gvansh.411@gmail.com**
 
-- ⚡ Fun fact **I play games and watch cricket very often.**
 
 ## 🚀 Languages and Tools:
 
